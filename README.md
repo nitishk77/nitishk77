@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dstars&psig=AOvVaw2CqCq90QiTptLveZ3DiU1L&ust=1763800868414000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD9-ILugpEDFQAAAAAdAAAAABAE)
+![logo](https://github.com/user-attachments/assets/271b879c-f1e9-44e2-84ad-ed264bd991d9)
 
 <h1 align="center">👋 Hello, I'm Nitish Kumar</h1>
 <img align="right" alt="coding" width="310" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
