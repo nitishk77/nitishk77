@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Nitish Kumar</h1>
-<img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
+<img align="right" alt="coding" width="310" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
 
 <p align="center">
 🌩 <b>Aspiring Cloud & DevOps Engineer | DevOps Enthusiast </b>
