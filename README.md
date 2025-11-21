@@ -1,7 +1,9 @@
-![logo](https://github.com/user-attachments/assets/271b879c-f1e9-44e2-84ad-ed264bd991d9)
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="logo" width="700">
+</p>
 
 <h1 align="center">👋 Hello, I'm Nitish Kumar</h1>
-<img align="right" alt="coding" width="310" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
+<img align="right" alt="coding" width="310" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXZxcGYzdHhzNjh4eGxwOXI4dGUydGtvbmx2ZGl0dTd3a3pmbGNweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" >
 
 <p align="center">
 🌩 <b>Aspiring Cloud & DevOps Engineer | DevOps Enthusiast </b>
@@ -15,8 +17,6 @@
 
 
 ## 💻 Tech Stack  
-
-
 
 ### 🧱 *Infrastructure as Code (IaC)*
 <p align="left">
