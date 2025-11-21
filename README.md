@@ -10,11 +10,11 @@
 - ☁ Learning & building on AWS, Cloud Computing, and DevOps
 - 🔧 Hands-on with EC2, S3, IAM, RDS, Lambda, Git, Docker, CI/CD
 - 🚀 Actively looking for Cloud & DevOps opportunities
----
+
 
 ## 💻 Tech Stack  
 
----
+
 
 ### 🧱 *Infrastructure as Code (IaC)*
 <p align="left">
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/ARM%20Templates%20-%20Automation-0089D6?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
 </p>
 
----
 
 ### ⚙ *Automation & Scripting*
 <p align="left">
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/Azure%20Automation%20-%20Runbooks-0078D4?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
 </p>
 
----
+
 ### 🔐 *Identity & Access Management*
 <p align="left">
   <img src="https://img.shields.io/badge/Entra%20ID%20(Azure%20AD)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -39,7 +38,6 @@
   <img src="https://img.shields.io/badge/Privileged%20Identity%20Management%20(PIM)-0089D6?style=for-the-badge&logo=security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Conditional%20Access%20Policies-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
----
 
 ### 🧩 *Version Control & CI/CD*
 <p align="left">
@@ -47,7 +45,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions%20-%20CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
----
+
 ### 🐳 *Containerization*
 <p align="left">
   <img src="https://img.shields.io/badge/Docker%20-%20Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
